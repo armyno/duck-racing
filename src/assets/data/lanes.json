@@ -1,0 +1,80 @@
+[
+    {
+        "racerName": "First Racer",
+        "laneColor": "linear-gradient(160deg, #ec4899 0%, #fb923c 100%)",
+        "laneNumber": 1,
+        "enabled": true,
+        "position": 0,
+        "stats": {
+            "speed": 1,
+            "accel": 1,
+            "size": 1,
+            "change": 5000
+        }
+    },
+    {
+        "racerName": "Second Racer",
+        "laneColor": "linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%)",
+        "laneNumber": 2,
+        "enabled": true,
+        "position": 0,
+        "stats": {
+            "speed": 1,
+            "accel": 1,
+            "size": 1,
+            "change": 5000
+        }
+    },
+    {
+        "racerName": "Third Racer",
+        "laneColor": "linear-gradient(160deg, #0093E9 0%, #80D0C7 100%)",
+        "laneNumber": 3,
+        "enabled": true,
+        "position": 0,
+        "stats": {
+            "speed": 1,
+            "accel": 1,
+            "size": 1,
+            "change": 5000
+        }
+    },
+    {
+        "racerName": "Fourth Racer",
+        "laneColor": "linear-gradient( 68.4deg, rgba(99,251,215,1) -0.4%, rgba(5,222,250,1) 100.2% )",
+        "laneNumber": 4,
+        "enabled": true,
+        "position": 0,
+        "stats": {
+            "speed": 1,
+            "accel": 1,
+            "size": 1,
+            "change": 5000
+        }
+    },
+    {
+        "racerName": "Fifth Racer",
+        "laneColor": "radial-gradient( circle farthest-corner at 10% 20%, rgba(255,94,247,1) 17.8%, rgba(2,245,255,1) 100.2% )",
+        "laneNumber": 5,
+        "enabled": true,
+        "position": 0,
+        "stats": {
+            "speed": 1,
+            "accel": 1,
+            "size": 1,
+            "change": 5000
+        }
+    },
+    {
+        "racerName": "Sixth Racer",
+        "laneColor": "linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%)",
+        "laneNumber": 6,
+        "enabled": true,
+        "position": 0,
+        "stats": {
+            "speed": 1,
+            "accel": 1,
+            "size": 1,
+            "change": 5000
+        }
+    }
+]
